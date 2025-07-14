@@ -18,7 +18,7 @@ redirect_from:
 
 📚 I'm currently working towards my next papers on causality:
 - 2024 Moldova elections interference
-- Calcium imaging for Dentate Gyrus (DG) on mice 
+- Calcium imaging of Dentate Gyrus (DG) on mice 
 
 
 ## 🎓 Education
