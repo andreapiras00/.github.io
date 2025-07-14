@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me!
 
-![Illustration of a network](/images/network.png){: .align-right width="500px"}
+![Illustration of a network](/images/network.png){: .align-right width="400px"}
 👨🏻‍💻 I'm a first year PhD student at University of Illinois Chicago.
 - My advisor is Professor [Elena Zheleva](https://www.cs.uic.edu/~elena/)
 
@@ -22,7 +22,9 @@ redirect_from:
 
 
 ## 🎓 Education
-I hold a **double Master’s degree in Computer Science**, awarded with _Summa Cum Laude_ jointly by the **University of Illinois Chicago** and **Politecnico di Milano**. At UIC, I graduated with a **4.0 GPA**, taking advanced coursework in Machine Learning, Causal Inference, and NLP. At Politecnico, I graduated with a final mark of **110L/100** (GPA of 3.82), specializing in Data Mining and Software Engineering.
+I hold a **double Master’s degree in Computer Science**, awarded with _Summa Cum Laude_ jointly by the **University of Illinois Chicago** and **Politecnico di Milano**. 
+- At UIC, I graduated with a **4.0 GPA**, taking advanced coursework in Machine Learning, Causal Inference, and NLP.
+- At Politecnico, I graduated with a final mark of **110L/100** (GPA of 3.82), specializing in Data Mining and Software Engineering.
 
 I also hold a **Bachelor’s degree in Engineering of Computing Systems** from Politecnico di Milano, where I graduated with full marks (110/110).
 
