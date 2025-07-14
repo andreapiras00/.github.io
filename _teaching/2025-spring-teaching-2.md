@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "University Course"
 permalink: /teaching/2025-spring-CS418
 venue: "University of Illinois Chicago, Department of Computer Science"
 date: 2025-01-13
