@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me!
+## About me
 
 ![Illustration of a network](/images/network.png){: .align-right width="400px"}
 👨🏻‍💻 I'm a first year PhD student in Computer Science at [**University of Illinois Chicago**](https://www.uic.edu/).
