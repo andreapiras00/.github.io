@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andrea Piras personal Website"
+title: "Andrea Piras - Personal Academic Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
