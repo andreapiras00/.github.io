@@ -11,15 +11,12 @@ redirect_from:
 ## About me
 
 ![Illustration of a network](/images/network.png){: .align-right width="400px"}
-👨🏻‍💻 I'm a first year PhD student in Computer Science at [**University of Illinois Chicago**](https://www.uic.edu/).
-- My advisor is Professor [Elena Zheleva](https://www.cs.uic.edu/~elena/)
+👨🏻‍💻 I'm a first year Ph.D. candidate in the Department of Computer Science at the [**University of Illinois Chicago (UIC)**](https://www.uic.edu/).
+- I am working under the supervision of professor [Elena Zheleva](https://www.cs.uic.edu/~elena/) in the EDGES lab, a statistical relational learning and data science lab.
 
-🔬 My research interests are causal inference and graph-based learning
+🔬 My research interests lie at the intersection of Causal Inference, Data Science, and Graph-based Learning
 
-📚 I'm currently working towards my next papers on causality:
-- 2024 Moldova elections interference
-- Calcium imaging of Dentate Gyrus (DG) on mice 
-
+📚 I'm currently working on causal modeling in network data
 
 ## 🎓 Education
 I hold a **double Master’s degree in Computer Science**, awarded with _Summa Cum Laude_ jointly by the University of Illinois Chicago and [**Politecnico di Milano**](https://www.polimi.it/). 

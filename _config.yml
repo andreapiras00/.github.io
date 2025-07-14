@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Andrea Piras / PhD"
+title                    : "Andrea Piras - Ph.D."
 title_separator          : "-"
 name                     : &name "Andrea Piras"
 description              : &description "personal description"
