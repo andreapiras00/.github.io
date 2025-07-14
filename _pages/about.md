@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+## About me!
 
-
-![Illustration of a network](/images/network.png){: .align-right width="300px"}
+![Illustration of a network](/images/network.png){: .align-right width="500px"}
 👨🏻‍💻 I'm a first year PhD student at University of Illinois Chicago.
 - My advisor is Professor [Elena Zheleva](https://www.cs.uic.edu/~elena/)
 
@@ -20,24 +20,22 @@ redirect_from:
 - 2024 Moldova elections interference
 - Calcium imaging for Dentate Gyrus (DG) on mice 
 
-<!-- # Selected Experience
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+## 🎓 Education
+I hold a **double Master’s degree in Computer Science**, awarded with _Summa Cum Laude_ jointly by the **University of Illinois Chicago** and **Politecnico di Milano**. At UIC, I graduated with a **4.0 GPA**, taking advanced coursework in Machine Learning, Causal Inference, and NLP. At Politecnico, I graduated with a final mark of **110L/100** (GPA of 3.82), specializing in Data Mining and Software Engineering.
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+I also hold a **Bachelor’s degree in Engineering of Computing Systems** from Politecnico di Milano, where I graduated with full marks (110/110).
 
-## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+## 🔬 Research Experience
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
+### Research at UIC
+In 2024, I served as a **Graduate Hourly Assistant** at the University of Illinois Chicago, where I developed algorithms for causal discovery in relational settings using graphical models.
 
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+### Research at NECSTLab
+From 2020 to 2024, I was a **Research Scholar** at the [NECSTLab](https://necst.it/) research laboratory at Politecnico di Milano. I contributed to multiple projects focused on graph algorithms, genome graph analysis, and infrastructure modeling.
 
-## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+Highlighted projects include:
+- **CPIExtract**: for my Master’s thesis, I conducted research in collaboration with Northeastern University and **Brigham and Women’s Hospital**, focusing on representation learning for compound-protein interaction (CPI) datasets.
+- **GAGET**: i developed a toolkit for evaluating genome assemblies using graph representations.
+- **Electric Network Analytics**: I designed domain-specific metrics and web-based tools to analyze structural vulnerabilities in power grids.
 
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content. -->
