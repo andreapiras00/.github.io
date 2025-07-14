@@ -11,7 +11,7 @@ redirect_from:
 ## About me!
 
 ![Illustration of a network](/images/network.png){: .align-right width="400px"}
-👨🏻‍💻 I'm a first year PhD student at University of Illinois Chicago.
+👨🏻‍💻 I'm a first year PhD student in Computer Science at University of Illinois Chicago.
 - My advisor is Professor [Elena Zheleva](https://www.cs.uic.edu/~elena/)
 
 🔬 My research interests are causal inference and graph-based learning
@@ -22,7 +22,7 @@ redirect_from:
 
 
 ## 🎓 Education
-I hold a **double Master’s degree in Computer Science**, awarded with _Summa Cum Laude_ jointly by the **University of Illinois Chicago** and **Politecnico di Milano**. 
+I hold a **double Master’s degree in Computer Science**, awarded with _Summa Cum Laude_ jointly by the [**University of Illinois Chicago**](https://www.uic.edu/) and [**Politecnico di Milano**](https://www.polimi.it/). 
 - At UIC, I graduated with a **4.0 GPA**, taking advanced coursework in Machine Learning, Causal Inference, and NLP.
 - At Politecnico, I graduated with a final mark of **110L/100** (GPA of 3.82), specializing in Data Mining and Software Engineering.
 
