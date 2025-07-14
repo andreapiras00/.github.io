@@ -7,6 +7,7 @@ excerpt: 'Introduced RelFCI, an algorithm extending FCI to relational data with 
 date: 2025-07-20
 venue: 'Conference on Uncertainty in Artificial Intelligence (UAI), 2025'
 paperurl: 'https://arxiv.org/abs/2507.01700'
+paperpdf: '/files/relfci.pdf'
 citation: 'https://arxiv.org/abs/2507.01700.'
 ---
 
