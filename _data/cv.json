@@ -1,152 +1,133 @@
 {
-  "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+    "basics": {
+        "name": "Andrea Piras",
+        "email": "apiras2@uic.edu",
+        "phone": "+1 (312) 647-3388",
+        "website": "https://linkedin.com/in/andrea-piras00",
+        "summary": "Ph.D. student in Computer Science at the University of Illinois Chicago, specializing in causality and graph-based learning. His research focuses on modeling causal relationships in relational data using graph representations. Lead author of a paper accepted at UAI 2025 introducing RelFCI—an extension of the FCI algorithm that accounts for latent confounders and non-i.i.d. structures.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Chicago",
+            "countryCode": "US",
+            "region": "Illinois"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "andrea-piras00",
+                "url": "https://linkedin.com/in/andrea-piras00"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
-  },
-  "work": [],
-  "education": [
-    {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+    "work": [
+        {
+            "position": "Teaching Assistant",
+            "company": "University of Illinois Chicago",
+            "startDate": "2025-01-01",
+            "endDate": "2025-05-01",
+            "summary": "Teaching Assistant for Introduction to Data Science (CS418)."
+        },
+        {
+            "position": "Graduate Hourly Assistant",
+            "company": "University of Illinois Chicago",
+            "startDate": "2024-01-01",
+            "endDate": "2025-12-31",
+            "summary": "Developing an algorithm for causal discovery on relational data using graph representations."
+        },
+        {
+            "position": "Visiting Researcher",
+            "company": "Northeastern University - Brigham and Women’s Hospital",
+            "startDate": "2023-08-01",
+            "summary": "Master’s thesis on data engineering and representation learning in the biomedical domain."
+        },
+        {
+            "position": "Research Scholar",
+            "company": "NECSTLab - Politecnico di Milano",
+            "startDate": "2020-09-01",
+            "summary": "Contributed to multiple research projects in computing and engineering."
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Illinois Chicago",
+            "area": "Ph.D. in Computer Science",
+            "startDate": "2025-01-01",
+            "endDate": "",
+            "gpa": "",
+            "courses": ["Causal Inference and Learning"]
+        },
+        {
+            "institution": "University of Illinois Chicago",
+            "area": "M.S. in Computer Science",
+            "startDate": "2023-02-01",
+            "endDate": "2024-12-31",
+            "gpa": "4.0",
+            "courses": ["Big Data Mining", "Machine Learning", "Computer Security", "Natural Language Processing"]
+        },
+        {
+            "institution": "Politecnico di Milano",
+            "area": "M.S. in Computer Science and Engineering",
+            "startDate": "2022-09-01",
+            "gpa": "3.82",
+            "courses": ["Data Mining", "Information Systems", "Software Engineering 2"]
+        },
+        {
+            "institution": "Politecnico di Milano",
+            "area": "B.S. in Engineering of Computing Systems",
+            "startDate": "2019-09-01",
+            "endDate": "2022-09-01",
+            "gpa": "3.76",
+            "courses": ["Algorithms", "Computer Architectures", "Bioinformatics"]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "keywords": ["Python", "C", "C++", "Java", "JavaScript", "SQL"]
+        },
+        {
+            "name": "Frameworks and Tools",
+            "keywords": ["React", "CUDA", "Spark", "Node.js", "Git", "LaTeX", "Google Cloud Platform"]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Relational Causal Discovery with Latent Confounders",
+            "publisher": "UAI 2025",
+            "summary": "Introduced RelFCI, an algorithm extending FCI to relational data with latent confounders and non-i.i.d. assumptions."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Data Extraction and Analysis using Knowledge Graphs",
+            "description": "Developed a pipeline for extracting and integrating Compound-Protein Interaction data to improve machine learning performance.",
+            "startDate": "2023-08-01",
+            "endDate": "2024-12-31"
+        },
+        {
+            "name": "Automatic Domain Specific Genome Graph Partitioning",
+            "description": "Developed algorithms and alignment tools to optimize genome graph partitioning.",
+            "startDate": "2022-09-01",
+            "endDate": "2023-08-01"
+        },
+        {
+            "name": "GAGET - Genome Assembly Graph Evaluation Toolkit",
+            "description": "Tool to evaluate genome assembly quality and visualize genome graphs.",
+            "startDate": "2021-02-01",
+            "endDate": "2022-09-01"
+        },
+        {
+            "name": "Graph Analytics of Electric Networks",
+            "description": "Created metrics and visualization tools for criticality analysis in electric grids.",
+            "startDate": "2020-09-01",
+            "endDate": "2021-01-01"
+        }
+    ],
+    "languages": [],
+    "interests": [],
+    "references": [],
+    "presentations": [],
+    "teaching": [],
+    "portfolio": []
 }
