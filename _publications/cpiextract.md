@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/cpiextract
 excerpt: 'Developed a pipeline to extract Compound-Protein Interaction (CPI) data from multiple sources and integrate them, to create augmented dataset to improve the performance of machine learning models.'
-date: 2024-07-05
+date: 2025-07-05
 venue: '(Submission, waiting for review) Bioinformatics Journal'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.07.03.601957v1'
 paperpdf: '/files/cpiextract.pdf'

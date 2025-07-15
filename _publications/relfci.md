@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/relational-causal-discovery-with-latent-confounders
 excerpt: 'Introduced RelFCI, an algorithm extending FCI to relational data with latent confounders and non-i.i.d. assumptions.'
 date: 2025-07-20
-venue: 'Conference on Uncertainty in Artificial Intelligence (UAI), 2025'
+venue: 'Conference on Uncertainty in Artificial Intelligence (UAI)'
 paperurl: 'https://arxiv.org/abs/2507.01700'
 paperpdf: '/files/relfci.pdf'
 citation: 'https://arxiv.org/abs/2507.01700.'
